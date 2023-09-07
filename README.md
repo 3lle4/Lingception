@@ -96,4 +96,5 @@ In general, keep an eye out in the `issues` and `discussions` section of this re
 
 ## Credit
 
-Frontend of this repo is inspired by [langchain-chat-nextjs](https://github.com/zahidkhawaja/langchain-chat-nextjs)
+Based on Repo [gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain/tree/feat/vectordbqa). (Frontend of this repo is inspired by [langchain-chat-nextjs](https://github.com/zahidkhawaja/langchain-chat-nextjs))
+
