@@ -260,3 +260,6 @@
     text-align: center;
   }
 }
+
+#source_link:link { color: #0000EE; }
+#source_link:visited { color: #551A8B; }
