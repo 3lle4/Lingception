@@ -195,7 +195,7 @@ export default function Home() {
                                       {doc.pageContent}
                                     </ReactMarkdown>
                                     <p className="mt-2">
-                                      <b>Source:</b> {doc.metadata.source}
+                                      <b>Source: </b><div id="source_link"><a href="https://web.stanford.edu/~jurafsky/slp3/" target="_blank" style={{color: '#7393B3'}}>Dan Jurafsky, James H. Martin: Speech and Language Processing (3rd ed.draft)</a></div>
                                     </p>
                                   </AccordionContent>
                                 </AccordionItem>
@@ -262,7 +262,7 @@ export default function Home() {
         </div>
         <footer className="m-auto p-4">
           <a href="https://twitter.com/mayowaoshin">
-            Powered by LangChainAI. Demo built by Mayo (Twitter: @mayowaoshin).
+            Powered by LangChainAI. Demo built by Mayo (Twitter: @mayowaoshin), adapted from Annika and Ellena.
           </a>
         </footer>
       </Layout>
